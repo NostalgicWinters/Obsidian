@@ -1,0 +1,9 @@
+1) **Minimum Viable Product** :- Key term is <u>viable</u> . A simple skeleton that doesn't do anything is not an MVP. An MVP should be useful to serve some purpose for the customer.
+2) **Venture Capital (VCs)** :- They invest small amount of money to buy equity of a company so that they can earn profit when company becomes big enough. They take risks. It is the industry that looks for startups that maybe risky but can becomes profitable later on.
+3) **Angel Investor** :- Type of angel investor who use their own money. They usually write smaller checks. They tend to do it not as a full time job.
+4) **Profitability** :- Simply, making more money than you spend. If we would like to add more, then it's about seeing if a company as it grows bigger and bigger has stable profit margins, increasing profit margins or decreasing profit margins. Ex:- Google didn't make any revenue for first few years of it's existence but later due to increasing profit margins became incredibly sucessful.
+5) **Burn rate** :- How much money has been burned down by your company. Crucial to this about it. because if it gets out of control you might run out of business.
+6) **Seed round** :- First amount of money you raised.
+7) **Product Market Fit** :- Actual definition is a bit tricky. When you build something and people use it and like it. And your biggest issue no longer is trying to define what people want or trying to make something people want it's to go in growth mode and scale to serve more people. Most startups start without product market fit.
+8) **Bootstrapping** :- When you start a company and you do not raise any venture capital.
+9) **Equity** :- Ownership in a company.
